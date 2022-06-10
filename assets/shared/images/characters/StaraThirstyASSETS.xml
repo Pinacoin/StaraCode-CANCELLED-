@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StaraThirstyASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staraDown0000" x="0" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0001" x="0" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0002" x="652" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0003" x="652" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0004" x="1304" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0005" x="1304" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0006" x="1956" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0007" x="1956" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0008" x="2608" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0009" x="2608" y="0" width="652" height="1024"/>
+	<SubTexture name="staraDown0010" x="2608" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0000" x="3260" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0001" x="3260" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0002" x="3912" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0003" x="3912" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0004" x="4564" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0005" x="4564" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0006" x="5216" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0007" x="5216" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0008" x="5868" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0009" x="5868" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0010" x="5868" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0011" x="5868" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0012" x="5868" y="0" width="652" height="1024"/>
+	<SubTexture name="staraIdle0013" x="5868" y="0" width="652" height="1024"/>
+	<SubTexture name="staraLeft0000" x="6520" y="0" width="652" height="1024"/>
+	<SubTexture name="staraLeft0001" x="6520" y="0" width="652" height="1024"/>
+	<SubTexture name="staraLeft0002" x="7172" y="0" width="652" height="1024"/>
+	<SubTexture name="staraLeft0003" x="7172" y="0" width="652" height="1024"/>
+	<SubTexture name="staraLeft0004" x="0" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraLeft0005" x="0" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraLeft0006" x="652" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraLeft0007" x="652" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraLeft0008" x="1304" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraLeft0009" x="1304" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraLeft0010" x="1304" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0000" x="1956" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0001" x="1956" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0002" x="2608" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0003" x="2608" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0004" x="3260" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0005" x="3260" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0006" x="3912" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0007" x="3912" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0008" x="4564" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0009" x="4564" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraRight0010" x="4564" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0000" x="5216" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0001" x="5216" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0002" x="5868" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0003" x="5868" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0004" x="6520" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0005" x="6520" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0006" x="7172" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0007" x="7172" y="1024" width="652" height="1024"/>
+	<SubTexture name="staraUp0008" x="0" y="2048" width="652" height="1024"/>
+	<SubTexture name="staraUp0009" x="0" y="2048" width="652" height="1024"/>
+	<SubTexture name="staraUp0010" x="0" y="2048" width="652" height="1024"/>
+</TextureAtlas>
